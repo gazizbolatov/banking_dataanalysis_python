@@ -26,26 +26,26 @@ The project focuses on analyzing customer age groups and their preferences regar
 ## Key Findings and Recommendations
 
 ### 1. Average Age of Clients with Loans:
-- The average age of clients with loans was found to be around 40 years, significantly higher than 30 years. This confirms that older customers are more likely to apply for loans.
+- The average age of clients with loans was found to be around 40 years, significantly higher than 30 years. This confirms that older customers are more likely to apply for loans or they still have unpaid loans.
 
 **Recommendation:** Focus marketing and loan offerings on the 30-40 age group, as they are more likely to be actively acquiring mortgages. Offer flexible terms and smaller loans for the younger demographic (under 30 years).
 
 ### 2. Mortgage Acquisition by Age Groups:
-- Younger individuals (under 29 years) are less likely to acquire mortgages. This could be due to limited financial stability, as many in this group may still live with their parents.
-- Customers aged 30-40 years tend to acquire mortgages more frequently due to increased financial stability.
-- People over 50 years old are less likely to have active mortgages, as they may have already repaid their loans or face reduced purchasing power.
+- Younger individuals (under 29 years) are less likely to acquire mortgages. This could be due to limited financial stability, as many in this group may still live with their parents as studies show.
+- Customers aged 30-40 years tend to have more mortgages than younget generation
+- People over 50 years old are less likely to have active mortgages, as they may have already repaid their loans or used the reduced purchasing power when buying a house.
 
 **Recommendation:** Offer tailored mortgage programs for younger individuals with lower interest rates or debt restructuring options to encourage more young people to consider home ownership.
 
 ### 3. Client Demographics:
-- The primary customer base of the bank consists of working individuals aged 30-40 years. This group is more likely to seek mortgages, which is a crucial segment for the bank.
+- The primary customer base of the bank consists of working individuals aged 30-40 years. This group is more likely to still have mortgages, which is a crucial segment for the bank.
 
-**Recommendation:** Increase targeted marketing and offer special mortgage products for this group. Additionally, partner with large employers to provide exclusive mortgage options for their employees.
+**Recommendation:** Increase targeted marketing and offer special mortgage products for this group. Additionally, partner with large employers to provide exclusive mortgage options for younger employees (up to 29).
 
 ### 4. Loan Probability by Age:
 - The probability of acquiring a loan decreases as age increases. Clients aged 20 years have a 14.82% chance of getting a loan, while those aged 50 years have only a 12.75% chance.
 
-**Recommendation:** Develop personalized loan products for different age groups, especially focusing on the 30-40 age range, where loan approval probability is higher.
+**Recommendation:** Develop personalized loan products for different age groups, especially creating new ways to acquire young customers with flexible payment plans
 
 ## Model Performance
 The Logistic Regression model achieved an accuracy of 87.55%, which demonstrates its effectiveness in predicting loan acquisition based on customer age.
